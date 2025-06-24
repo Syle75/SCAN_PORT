@@ -1,0 +1,3 @@
+Résultats du scan de 192.168.1.254 :
+Port 53 ouvert
+Port 80 ouvert
