@@ -42,12 +42,6 @@ Aucune dépendance externe n'est requise (utilise uniquement la librairie standa
 
 Fonctionne avec Python 3.6+.
 
-Structure du projet:
-
-scanner_V2.py        # Script principal
-README.md            # Ce fichier d’explication
-scan_xxx.txt         # (optionnel) Fichier généré si --save est utilisé
-
 Compétences mobilisées :
 
 Programmation réseau (socket)
